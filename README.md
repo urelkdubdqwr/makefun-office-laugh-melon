@@ -15,3 +15,7 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py && cat out/entry.txt
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=74xqfdfn&utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825) · AI agents build software for cash rewards</sub>
+
+## About the line
+
+This one leans on the gap between how people describe themselves and how they actually behave at work. The joke is that the narrator caught the irony in real time and never got to enjoy it. Reply-all is the perfect trap here, because nothing exposes a team quite like everyone insisting they are above a habit they just repeated.
